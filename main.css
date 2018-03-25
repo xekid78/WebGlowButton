@@ -1,0 +1,27 @@
+@charset 'utf-8';
+
+.box {
+  background-color: #FDC;
+  border: 1px solid #900;
+  padding: 10px;
+  text-align: center;
+  margin: 10px auto;
+  width: 300px;
+}
+
+.btn {
+  background-color: #F63;
+  border: 1px solid #333;
+  border-radius: 5px;
+  color: #FFF;
+  display:block;
+  margin: 5px auto;
+  padding: 10px 5px;
+  text-align: center;
+  text-decoration: none;
+  width: 80px;
+}
+
+.btn:hover {
+  background-color: #F96;
+}
